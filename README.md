@@ -4,19 +4,23 @@
 
 ##### Right now I am working on building projects that apply what I am learning in my course. 
 ##### These include: 
+ * a random quote generator that uses an external API 
  * a meme generator 
  * connect four game
  * Jeoprody game
 ##### I am also looking for some sweet open source projects to contribute to! If you have any beginner friendly ones let me know. :)
-##### Languages I am currently working with:
+##### Languages and frameworks I am currently working with:
 * HTML/CSS
-* Vanilla JavaScript
+* JavaScript
+* Python
 * Bootstrap
 * node.js
+* 
 ##### Languages and frameworks I am going to learn:
-* Python
 * REACT
 * Express
+* Flask
+* SQL
 
 
 <!--
