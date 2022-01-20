@@ -12,14 +12,13 @@
 ##### Languages and frameworks I am currently working with:
 * HTML/CSS
 * JavaScript
-* Python
+* Python & Flask
 * Bootstrap
 * node.js
-* 
+
 ##### Languages and frameworks I am going to learn:
 * REACT
 * Express
-* Flask
 * SQL
 
 
