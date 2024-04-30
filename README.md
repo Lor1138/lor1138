@@ -1,7 +1,7 @@
 ### Hi! I'm Laura.
 
 
-##### Right now I am working on building projects that apply what I have learn through self-study
+##### Right now I am working on building projects that apply what I have learned through self-study
 ##### These include: 
  * a random quote generator that uses an external API 
  * a meme generator 
