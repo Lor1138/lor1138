@@ -1,8 +1,7 @@
 ### Hi! I'm Laura.
 
-#### I am currently a student at Springboard following the Software Engineering Track. 
 
-##### Right now I am working on building projects that apply what I am learning in my course. 
+##### Right now I am working on building projects that apply what I have learn through self-study
 ##### These include: 
  * a random quote generator that uses an external API 
  * a meme generator 
