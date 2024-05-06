@@ -11,14 +11,20 @@
 ##### Languages and frameworks I am currently working with:
 * HTML/CSS
 * JavaScript
-* Python & Flask
 * Bootstrap
 * node.js
 
 ##### Languages and frameworks I am going to learn:
 * REACT
-* Express
-* SQL
+* Next.js
+* Tailwind
+* Typescript
+
+##### How to reach me:
+* https://www.linkedin.com/in/lauraobdev/
+* lauraobdev@gmail.com
+  
+
 
 
 <!--
